@@ -1,2 +1,2 @@
 # projectbootcamp
-Code made at the end of bootcamp 
+Project produced after 2 week Bootcamp  
